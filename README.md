@@ -13,7 +13,7 @@ Backend can be run by navigating to ```/backend ``` folder and running ```npm ru
 
 ### Frontend
 
-Front end can be run by navigating to ```/frontend``` folder and running ```npm run dev``` 
+Front end can be run by navigating to ```/northbeamstudio``` folder and running ```npm run dev``` 
 
 
 ## SDD Artifacts
